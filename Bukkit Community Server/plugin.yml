@@ -1,0 +1,3 @@
+name: BasePlugin
+main: com.puffybugs.BasePlugin.BasePlugin
+version: 1.4.7_0
